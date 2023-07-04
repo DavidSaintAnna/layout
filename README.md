@@ -6,7 +6,7 @@
 
 Application built to practice some concepts of CSS and HTML 🚀
 
-## Link of the figma : https://www.figma.com/file/3krrz9CdXopZoHlKLN42Jh/RocketMovies-(Copy)?node-id=307%3A642&mode=dev
+## Link of the figma :https://www.figma.com/file/2oV8NKtR3MPStBfz7TeCdS/Projeto01-Extra-(Copy)?node-id=1%3A2&mode=dev
 
 </div>
 
